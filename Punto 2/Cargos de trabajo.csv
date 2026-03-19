@@ -1,0 +1,6 @@
+"JOB_ID","JOB_TITLE","MIN_SALARY","MAX_SALARY"
+"FA_ST","Staff Faculty",3000,6000
+"FA_SF","Senior Faculty",4200,9000
+"FA_AF","Associate Faculty",8200,16000
+"FA_PF","Principal Faculty",15000,30000
+"FA_HOD","Head of the Department",20080,40000
