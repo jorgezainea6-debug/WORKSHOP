@@ -1,4 +1,4 @@
-# Academic Data Analysis - University Performance
+# Academic Data Analysis
 
 ## Project Overview
 
